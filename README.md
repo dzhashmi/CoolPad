@@ -12,7 +12,7 @@ Case Assembly:
 
 
 Features:
-3x3 Matrix: 9 Mechanical Switch keys.
+3x3 Matrix: 9 Switch keys.
 
 Rotary Control: EC11 Rotary Encoder for volume.
 
