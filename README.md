@@ -40,21 +40,21 @@ This macropad runs on QMK Firmware, mainly for customizability. I did use AI to 
 
 Encoder: handles Volume Up/Down.
 
-OLED: Working on making this more of a UI where you can select different modes for different purposes.
+OLED: Working on making this more of a UI that lets you select different modes for different purposes.
 
 
 BOM (Bill of Materials)
 Here is everything used to build the CoolPad:
-9	Cherry MX Style
-9 KeyCaps
-9 Diodes
+9 Blank DSA keycaps (White)
+9 MX-Style switches
+9 Through-hole 1N4148 Diodes 
 9 LEDs - SK6812 MINI-E (3.5x3.5mm)
 1 EC11 Rotary Encoder
 1 Display - 0.91" OLED
 1 Seeed XIAO RP2040
 9 Capacitors 
 1 Case (Printed in 2 parts; Base and top cover)
-4 M3 Heat sink Screws
+4 M3x5mx4mm heatset inserts
 
 
 PCB Schematic:
