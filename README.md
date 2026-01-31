@@ -39,8 +39,6 @@ Encoder: handles Volume Up/Down.
 
 OLED: Working on making this more of a UI where you can select different modes for different purposes.
 
-Lighting: Supports standard QMK animations (Rainbow Swirl, Breathing, Knight Rider).
-
 
 Enjoy the click-clack!
 
