@@ -1,5 +1,5 @@
 #include QMK_KEYBOARD_H
-
+// -- THIS IS A WORK IN PROGRESS!!!!!! --
 // -- Layer Definitions --
 enum layers {
     _MAIN,
@@ -25,7 +25,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 // -- Encoder Logic --
 bool encoder_update_user(uint8_t index, bool clockwise) {
-    if (index == 0) { // We only have one encoder
+    if (index == 0) {
         if (clockwise) {
             tap_code(KC_VOLU); // Volume Up
         } else {
@@ -35,14 +35,12 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
     return false;
 }
 
-// -- OLED Logic --
+// -- OLED Logic -- WORK IN PROGRESS!!!!!!!!!!!!!!!!!!!!!!!!
 #ifdef OLED_ENABLE
 bool oled_task_user(void) {
-    // Host Keyboard Layer Status
-    oled_write_P(PSTR("Nexus Pad v1\n"), false);
+    oled_write_P(PSTR("CoolPAD v1\n"), false);
     oled_write_P(PSTR("------------\n"), false);
 
-    // Show current layer
     switch (get_highest_layer(layer_state)) {
         case _MAIN:
             oled_write_P(PSTR("Layer: MACRO\n"), false);
@@ -54,11 +52,11 @@ bool oled_task_user(void) {
             oled_write_P(PSTR("Layer: ???\n"), false);
     }
 
-    // Show Lock Status
     led_t led_state = host_keyboard_led_state();
     oled_write_P(led_state.num_lock ? PSTR("NUM ") : PSTR("    "), false);
     oled_write_P(led_state.caps_lock ? PSTR("CAPS") : PSTR("    "), false);
     
     return false;
 }
+
 #endif
