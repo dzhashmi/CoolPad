@@ -3,6 +3,8 @@ This is my first public hardware project.
 CoolPad
 CoolPad is a custom 9-key  macropad with a rotary encoder, an OLED display, and RGB lighting. It is powered by the Seeed XIAO RP2040 and runs on QMK firmware.
 
+Please provide feedback or even ideas on how this can be improved!
+
 This project was built from scratch. With guidance from online sources, the guide found on the project page of Hackclub Blueprint, and AI.
 
 Case Assembly:
@@ -28,6 +30,7 @@ The case that I spent way too long trying to make look decent.
 
 
 PCB;
+This took 10+ hours because I had to learn how to route it...
 The custom PCB was designed from scratch in KiCAD.
 
 Microcontroller: Seeed XIAO RP2040
