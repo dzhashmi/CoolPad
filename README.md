@@ -40,8 +40,6 @@ Encoder: handles Volume Up/Down.
 OLED: Working on making this more of a UI where you can select different modes for different purposes.
 
 
-Enjoy the click-clack!
-
 BOM (Bill of Materials)
 Here is everything used to build the CoolPad:
 9	Cherry MX Style
