@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Daniyal",
+    "keyboard_name": "CoolPad",
+    "maintainer": "Daniyal",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "rgblight": true,
+        "encoder": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "cols": ["GP2", "GP4", "GP3"],
+        "rows": ["GP29", "GP0", "GP1"]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 1},
+                {"matrix": [0, 1], "x": 1, "y": 1},
+                {"matrix": [0, 2], "x": 2, "y": 1},
+                
+                {"matrix": [1, 0], "x": 0, "y": 2},
+                {"matrix": [1, 1], "x": 1, "y": 2},
+                {"matrix": [1, 2], "x": 2, "y": 2},
+                
+                {"matrix": [2, 0], "x": 0, "y": 3},
+                {"matrix": [2, 1], "x": 1, "y": 3},
+                {"matrix": [2, 2], "x": 2, "y": 3}
+            ]
+        }
+    },
+    "rgblight": {
+        "led_count": 9,
+        "pin": "GP26", 
+        "animations": {
+            "breathing": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true,
+            "snake": true,
+            "knight": true
+        }
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP27", "pin_b": "GP28"}
+        ]
+    }
+}
