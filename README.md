@@ -53,7 +53,6 @@ Here is everything used to build the CoolPad:
 1 EC11 Rotary Encoder
 1 Display - 0.91" OLED
 1 Seeed XIAO RP2040
-9 Capacitors 
 1 Case (Printed in 2 parts; Base and top cover)
 4 M3x5mx4mm heatset inserts
 
