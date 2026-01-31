@@ -20,7 +20,7 @@ Rotary Control: EC11 Rotary Encoder for volume.
 
 OLED: 0.91".
 
-RGB Underglow: 9x SK6812 MINI-E LEDs (one under every key).
+RGB Underglow: 9x SK6812 MINI-E LEDs (one with every key).
 
 Powered By: Powered by the Seeed XIAO RP2040.
 
