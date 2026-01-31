@@ -31,6 +31,7 @@ The case that I spent way too long trying to make look decent.
 
 PCB;
 This took 10+ hours because I had to learn how to route it...
+It is evidently a very badly routed PCB, I really did try to make it look nice, but I could not find a way to make it look good, and still be able to route everything. I am open to advice.
 The custom PCB was designed from scratch in KiCAD.
 
 Microcontroller: Seeed XIAO RP2040
