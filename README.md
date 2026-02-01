@@ -10,7 +10,7 @@ This project was built from scratch. With guidance from online sources, the guid
 Case Assembly:
 
 
-<img width="870" height="510" alt="image" src="https://github.com/user-attachments/assets/28fc9d29-c737-4f66-a06f-8534ba5c909b" />
+<img width="1028" height="763" alt="image" src="https://github.com/user-attachments/assets/518887da-f59c-4652-ba37-fba9b705baa9" />
 
 
 Features:
