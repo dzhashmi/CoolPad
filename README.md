@@ -20,7 +20,7 @@ Rotary Control: EC11 Rotary Encoder for volume.
 
 OLED: 0.91".
 
-RGB Underglow: 9x SK6812 MINI-E LEDs (one with every key).
+RGB Underglow: 9x SK6812 MINI LEDs (one with every key).
 
 Powered By: Powered by the Seeed XIAO RP2040.
 
@@ -44,7 +44,7 @@ Encoder: handles Volume Up/Down.
 OLED: Working on making this more of a UI that lets you select different modes for different purposes.
 
 
-BOM (Bill of Materials)
+BOM (Bill of Materials):
 Here is everything used to build the CoolPad:
 9 Blank DSA keycaps (White)
 9 MX-Style switches
@@ -60,18 +60,24 @@ Here is everything used to build the CoolPad:
 PCB Schematic:
 
 
-<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/5afaaa5f-0c65-426b-8ea6-a7e7d2858148" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/c36fcafb-7d62-417d-b0c3-f33ab8f68036" />
+
+
+PCB Routed:
+
+<img width="482" height="657" alt="image" src="https://github.com/user-attachments/assets/a906d38d-06e6-466e-b3c1-3d66a189263b" />
 
 
 PCB Front:
 
 
-<img width="653" height="949" alt="image" src="https://github.com/user-attachments/assets/d4ff0a16-8aeb-4cae-a1f1-1b6051c6fcf4" />
+<img width="537" height="782" alt="image" src="https://github.com/user-attachments/assets/c41e391a-4c04-416f-8002-19862f92ecb5" />
+
 
 PCB Back:
 
 
-<img width="577" height="861" alt="image" src="https://github.com/user-attachments/assets/48c3998a-4f4b-4f54-a5c0-b491c43ec42b" />
+<img width="535" height="781" alt="image" src="https://github.com/user-attachments/assets/e0e01b90-722e-4652-8998-7db3a49fa867" />
 
 
 Case (Bottom):
