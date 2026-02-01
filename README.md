@@ -65,7 +65,7 @@ PCB Schematic:
 
 PCB Routed:
 
-<img width="482" height="657" alt="image" src="https://github.com/user-attachments/assets/a906d38d-06e6-466e-b3c1-3d66a189263b" />
+<img width="463" height="603" alt="image" src="https://github.com/user-attachments/assets/8d293596-80e1-4442-a026-4e311a940dfd" />
 
 
 PCB Front:
