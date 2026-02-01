@@ -84,13 +84,14 @@ PCB Back:
 Case (Bottom):
 
 
-<img width="968" height="562" alt="image" src="https://github.com/user-attachments/assets/ac04edf4-f95e-4250-b22f-621c124bc82e" />
+<img width="986" height="696" alt="image" src="https://github.com/user-attachments/assets/c11db754-e257-4a80-aaa2-367dd591ce7b" />
 
 
 Case (Top):
 
 
-<img width="966" height="557" alt="image" src="https://github.com/user-attachments/assets/e38cdd33-8b94-40bf-af76-18e783063967" />
+<img width="1024" height="707" alt="image" src="https://github.com/user-attachments/assets/1f18d6c2-3166-4c4c-8623-8a56090c4f21" />
+
 
 
 
