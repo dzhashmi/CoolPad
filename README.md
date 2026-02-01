@@ -71,13 +71,13 @@ PCB Routed:
 PCB Front:
 
 
-<img width="631" height="859" alt="image" src="https://github.com/user-attachments/assets/b69ab6fe-f182-43ca-8d4f-5d2a12ced427" />
+<img width="632" height="858" alt="image" src="https://github.com/user-attachments/assets/a9948ebb-87dd-4db2-bdbb-d980efa1c2bc" />
 
 
 PCB Back:
 
 
-<img width="629" height="860" alt="image" src="https://github.com/user-attachments/assets/6a4542ae-5de3-4fed-94e9-53086ff686b6" />
+<img width="632" height="859" alt="image" src="https://github.com/user-attachments/assets/4cd55728-b180-4f01-92f4-0017195678d1" />
 
 
 Case (Bottom):
